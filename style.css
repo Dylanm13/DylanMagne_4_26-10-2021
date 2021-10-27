@@ -290,6 +290,9 @@ a:hover {
 .navbar {
     margin-bottom: 0;
     z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .navbar-brand {
@@ -640,22 +643,38 @@ a[data-lightbox]:hover img {
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
 h6,
-p,
-label,
 .btn,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #FFFFFF;
 }
 
-.container {
-    max-width: 1000px;
+label {
+    color: black;
+}
+
+p {
+    color: black;
+    font-size: 15px;
+}
+
+h2 {
+    color: #575757;
+}
+
+.citation {
+    color: #575757;
+    font-weight: 600;
+}
+
+.citation-author{
+    color: #575757;
+    font-weight: 600;
 }
 
 .hero-bloc-text {
@@ -674,10 +693,6 @@ a {
     font-weight: lighter;
     max-width: 520px;
     margin: auto auto auto auto;
-}
-
-p {
-    font-size: 11px;
 }
 
 .tight-width-whitespace {
@@ -771,15 +786,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #C7511F;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #C7511F;
     color: #FFFFFF!important;
 }
 
