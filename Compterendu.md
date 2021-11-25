@@ -40,4 +40,10 @@
 Page principale avant :  
 
 
-![Image principale du site avant](/img/page_principale/ancienne_page_principale_screen_1.png)
+![Image principale du site avant](/img/page_principale/ancienne_page_principale_screen_1.png)  
+
+
+Page principale après :  
+
+
+![Image principale du site après](/img/page_principale/page_principale_screen_1.png)
