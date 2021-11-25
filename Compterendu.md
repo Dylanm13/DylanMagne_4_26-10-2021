@@ -29,3 +29,15 @@
 * Mauvaise utilisation des `alt` pour les images : Des mots clés aléatoires étaient cachés dans les `alt` des images, cela rendre dans la catégorie SEO car c'est une technique de Black Hat, mais également dans l'accessibilté car cela obstrue l'indication des images en question pour les personnes ayant besoin d'aide pour comprendre les images.
 
 * Ajout d'un texte pour les réseaux sociaux : Le nom des réseaux sociaux a été ajouter à côté de ces derniers pour faciliter la compréhension.
+
+
+------------------------------
+
+
+# Compratifs de vitesse et poids du site 
+
+
+Page principale avant :  
+
+
+![Image principale du site avant](/img/page_principale/ancienne_page_principale_screen_1)
